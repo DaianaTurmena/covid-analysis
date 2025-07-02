@@ -1,0 +1,39 @@
+## Análise COVID-19 Brasil
+- Pior mês para casos: 2021-03
+- Pior mês para mortes: 2021-04
+- Total de casos no período: 7,022,234
+- Total de mortes no período: 266,850
+
+Total de casos no período: 71,081,963
+Total de mortes no período: 2,006,477
+
+Dia com mais casos:
+Data: 2021-09-18
+Casos: 150,106
+
+Média móvel de casos (últimos 5 dias):
+               data  media_movel_casos
+4105291  2021-12-31          37.857143
+4105292  2021-12-31          74.285714
+4105293  2021-12-31          74.285714
+4105294  2021-12-31          74.285714
+4105295  2021-12-31          74.714286
+
+ Top 5 meses com mais casos:
+    mes_ano  novos_casos  novas_mortes
+14  2021-03      7022234        213475
+17  2021-06      6315108        177099
+15  2021-04      6074191        266850
+16  2021-05      5971427        189585
+12  2021-01      4858695         93275
+
+Estatísticas básicas:
+       novos_casos  novas_mortes
+count    3647097.0     3614213.0
+mean     19.490012      0.555163
+std     610.091384      18.77662
+min       -59429.0       -4109.0
+25%            0.0           0.0
+50%            0.0           0.0
+75%            2.0           0.0
+max       150106.0        4249.0
